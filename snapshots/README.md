@@ -1,1 +1,0 @@
-# Snapshot Off-Chain Proposals

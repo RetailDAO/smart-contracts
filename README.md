@@ -1,5 +1,5 @@
 # Smart Contracts
-This repository contains all smart contracts for FinancialFreedomDAO, including the $RETAIL token, DAOs, and multisigs, hosted on the Base Network.
+This repository contains all smart contracts for RetailDAO, including the $RETAIL token, DAOs, and multisigs, hosted on the Base Network.
 
 ## Structure
 - **retail-token**: Contracts and ABIs for the $RETAIL governance token.
@@ -9,7 +9,6 @@ This repository contains all smart contracts for FinancialFreedomDAO, including 
 - **multisig-liquidity**: 4/8 multisig for liquidity management.
 - **snapshots**: Documentation for Snapshot off-chain proposals.
 - **docs**: Contract addresses, BaseScan links, and verification instructions.
-- **tests**: Test suites for smart contracts.
 
 ## Transparency
 - All contracts are publicly verifiable on [BaseScan](https://basescan.org/).
